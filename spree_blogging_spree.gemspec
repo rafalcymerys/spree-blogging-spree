@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'spree_core', '~> 3.3'
   s.add_dependency 'acts-as-taggable-on', '~> 5.0'
-  s.add_dependency 'rails', '< 5.2.0'
+  s.add_dependency 'rails'
 
   s.add_development_dependency 'capybara'
   s.add_development_dependency 'coffee-rails'
