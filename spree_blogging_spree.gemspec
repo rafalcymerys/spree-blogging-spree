@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_dependency 'spree_core', '~> 3.3'
+  s.add_dependency 'spree_core', '~> 4.0'
   s.add_dependency 'acts-as-taggable-on'
   s.add_dependency 'rails'
 
